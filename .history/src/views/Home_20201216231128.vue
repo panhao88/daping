@@ -72,9 +72,7 @@ export default {
   // 事件方法执行
   methods: {},
   // 页面初始化方法
-  mounted() {
-    
-  },
+  mounted() {},
   // 监听值变化
   watch: {},
   // 计算
